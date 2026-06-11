@@ -1,6 +1,6 @@
 import { j as jsxRuntimeExports, r as reactExports } from "../_libs/react.mjs";
 import { d as useRouterState, L as Link } from "../_libs/tanstack__react-router.mjs";
-import { H as House, c as ScanLine, f as History, U as User, g as Bell, h as Sun, M as Moon } from "../_libs/lucide-react.mjs";
+import { H as House, g as ScanLine, i as History, j as User, k as Bell, l as Sun, M as Moon } from "../_libs/lucide-react.mjs";
 function getInitialTheme() {
   if (typeof document === "undefined") return "light";
   return document.documentElement.classList.contains("dark") ? "dark" : "light";
